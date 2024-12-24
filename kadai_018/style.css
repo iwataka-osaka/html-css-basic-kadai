@@ -44,7 +44,6 @@
 }
 
 #bottom {
-    position: relative;
     width: 800px;
     height: 300px;
     margin: 0 auto;
@@ -58,11 +57,11 @@
 }
 
 #bottom-child02 {
-    position: absolute;
+    position: relative;
     left: 200px;
 }
 
 #bottom-child03 {
-    position: absolute;
+    position: relative;
     left: 400px;
 }
